@@ -1,0 +1,1 @@
+This project was the final assignment for the **Design of Intelligent Agents** course, where we implemented AI search algorithms to autonomously guide the *Perseverance Rover* across Mars' surface, successfully navigating challenging terrain and reaching the base of a crater.
